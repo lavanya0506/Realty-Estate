@@ -7,6 +7,7 @@
 <img width="1919" height="901" alt="285540129-f7c6a6ab-ccf3-4d5f-9903-26ae9bdf3b02 (1)" src="https://github.com/user-attachments/assets/5ccec590-29a4-4b2a-ae24-a49e92120baf" />
 <img width="1771" height="804" alt="285540213-20a909ff-8907-4ad0-be32-85c065d3c798" src="https://github.com/user-attachments/assets/0522417d-ec12-4a13-b015-410dd1acc4b6" />
 <img width="1771" height="804" alt="<img width="1899" height="906" alt="285539853-df1124b5-2e20-4e7f-ab42-7c17710d5a36" src="https://github.com/user-attachments/assets/630a7cbf-51fc-40bf-900c-621ef21b08ef" />
+<img width="1771" height="807" alt="285539940-bb53a619-90bb-4353-9a08-d953197a7e8b" src="https://github.com/user-attachments/assets/37d24f71-27fd-4b59-a8b2-28b1f207300f" />
 
 
 🚀 Building a Realty-Estate website using the MERN stack involves creating a full-stack application with MongoDB, Express.js, React.js, and Node.js. Here's a breakdown of the key features you can implement:
